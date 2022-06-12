@@ -1,13 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Virtual Piano
 
 > Description the project.
 
 
 ## Built With
 
-- Major languages
+- Major languages: html, css, javascript
 - Frameworks
 - Technologies used
 
@@ -42,16 +42,11 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/jaferll)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
+👤
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
